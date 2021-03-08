@@ -2,6 +2,11 @@
 
 Application to find barbershop, services and make appointments, simply and safely.
 
+<div style="text-align:center">
+  <img src="./1614953821322.png.jpg" width="300px">
+</div>
+
+
 ## Need
 
 * Android SDK
