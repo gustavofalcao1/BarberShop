@@ -12,12 +12,13 @@ Application to find barbershop, services and make appointments, simply and safel
 * Android SDK
 * NodeJS
 * React Native CLI
+* Yarn
 
 ## Install
 
   1. Dependences
   
-    npm install
+    yarn install
     
   2. Install APP
   
@@ -30,3 +31,7 @@ Application to find barbershop, services and make appointments, simply and safel
   3. Start
   
     npm start
+    
+   or
+    
+    expo start
